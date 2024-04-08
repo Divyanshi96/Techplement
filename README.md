@@ -1,4 +1,4 @@
-                                                                                          Weather Checking Application
+Weather Checking Application
 
 
 This Python script provides a user-friendly weather checking application with features for:
